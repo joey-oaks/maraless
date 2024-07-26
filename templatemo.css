@@ -136,6 +136,41 @@ section.bg-light { display: none;}
   font-weight: 900 !important;
 }
 
+/* Services */
+.services-icon-wap {transition: .3s;}
+.services-icon-wap:hover, .services-icon-wap:hover i, {color: #fff;}
+.services-icon-wap:hover {background: #69bb7e;}
+
+/*home*/
+.services-icon-wap {transition: .3s;}
+.services-icon-wap:hover, .services-icon-wap:hover #home {color: #fff;}
+.services-icon-wap:hover {background: #69bb7e;}
+
+/*apartment*/
+.services-icon-wap {transition: .3s;}
+.services-icon-wap:hover, .services-icon-wap:hover #apartment {color: #fff;}
+.services-icon-wap:hover {background: #69bb7e;}
+
+/*store*/
+.services-icon-wap {transition: .3s;}
+.services-icon-wap:hover, .services-icon-wap:hover #store {color: #fff;}
+.services-icon-wap:hover {background: #69bb7e;}
+
+/*payments*/
+.services-icon-wap {transition: .3s;}
+.services-icon-wap:hover, .services-icon-wap:hover #payments {color: #fff;}
+.services-icon-wap:hover {background: #69bb7e;}
+
+#logo-maraless {
+  height: auto;
+  width: 356px;
+}
+
+#home, #apartment, #store, #payments {
+  font-size: 48px;
+  font-weight: 900;
+}
+
 /* Carousel Brand */
 .tempaltemo-carousel .h1 {
   font-size: .5em !important;
